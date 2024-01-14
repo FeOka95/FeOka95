@@ -17,7 +17,7 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 - Experienced in REST and SOAP APIs modeling, Cloud Working Models (SaaS, PaaS, IaaS), JavaScript, R and other programming languages
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect!</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-haruo-matsunaga-oka-38b735142/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" alt="Fernando Haruo Matsunaga Oka" height="35" width="35"/></a> 
   <a href="https://twitter.com/fe_oka1" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="fe_oka1" height="35" width="35" /></a>
@@ -29,12 +29,18 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 <h3 align="left">Programming Languages</h3>
 
 - Python
-- SQL
 - R
 - JavaScript / NodeJS
 - Java
 - C
 - C++
+
+<h3 align="left">Database Tools</h3>
+
+- SQL (Oracle, MySQL, PostgreSQL)
+- MongoDB
+- Databricks
+- Looker
 
 <h3 align="left">AI / ML</h3>
 
@@ -55,7 +61,13 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 - Datadog
 - Grafana
 - Postman
-  
+
+<h3 align="left">ERPs and Tools</h3>
+
+- Oracle ERP Cloud
+- Oracle Integration Cloud (OIC)
+- Oracle Cloud Infrastructure (OCI)
+- Oracle E-Business Suite (EBS)
 <!--
 **FeOka95/FeOka95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
