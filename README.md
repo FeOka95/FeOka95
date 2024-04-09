@@ -2,9 +2,9 @@
 
 <h2 align="left">About Me</h2>
 
-🌟 Solutions Manager | Passionate about Technology | Award-Winning Innovator
+🌟 Tech Lead | Passionate about Technology | Award-Winning Innovator
 
-👨 With more than 7 years of experience in the tech industry, I'm an electrical engineer working as a Solutions Manager at [PayJoy](https://www.payjoy.com/). I'm creative, dedicated and passionate about technology's transformative power.
+👨 With more than 8 years of experience in the tech industry, I'm an electrical engineer working as a Tech Lead at Peloton Consulting Group. I'm creative, dedicated and passionate about technology's transformative power.
 
 🏆 Achievements:
 Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizing carrier relationships and playing a pivotal role in elevating the 5G landscape in Brazil.
