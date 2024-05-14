@@ -26,11 +26,10 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 
 <h2 align="left">Languages and Tools:</h2>
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">Backend Development</h3>
 
+- JavaScript / ReactJS/ NodeJS
 - Python
-- R
-- JavaScript / NodeJS
 - Java
 - C
 - C++
@@ -49,6 +48,7 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 - PyTorch
 - Pandas
 - Seaborn
+- R
 
 <h3 align="left">Frontend Development</h3>
 
