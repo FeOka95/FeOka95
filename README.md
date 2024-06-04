@@ -28,7 +28,7 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 
 <h3 align="left">Backend Development</h3>
 
-- JavaScript / ReactJS/ NodeJS
+- JavaScript / NodeJS
 - Python
 - Java
 - C
@@ -54,6 +54,7 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 
 - HTML
 - CSS
+- ReactJS
 
 <h3 align="left">Backend Development, Testing and Monitoring Tools</h3>
 
