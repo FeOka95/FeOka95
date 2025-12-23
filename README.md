@@ -4,23 +4,22 @@
 
 🌟 Tech Lead | Passionate about Technology | Award-Winning Innovator
 
-👨 With more than 8 years of experience in the tech industry, I'm an electrical engineer working as a Tech Lead at Peloton Consulting Group. I'm creative, dedicated and passionate about technology's transformative power.
+I am a Technical Lead with solid experience in SaaS environments, enterprise integrations, and cloud-based solutions. I’m adept at building strong relationships with stakeholders, combining technical expertise and business insight to deliver impactful and scalable results. I’m passionate about collaboration, design thinking, and enabling teams through technology. Fluent in Portuguese, English, and Spanish.
 
-🏆 Achievements:
-Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizing carrier relationships and playing a pivotal role in elevating the 5G landscape in Brazil.
-
-🛠️ Expertise:
-- Drive innovation with major clients and partners, ensuring their needs are met and businesses can scale effectively
-- Proficient in Python for Data Analysis, Machine Learning Models, Deep Learning and NLP
-- Adept at creating RPAs/bots for task automation
-- Skilled in SQL for reporting and extracting insights from data
-- Experienced in REST and SOAP APIs modeling, Cloud Working Models (SaaS, PaaS, IaaS), JavaScript, R and other programming languages
-
+Expertise
+• Pre-Sales & Post-Sales Solution Consulting
+• SaaS Product Integrations (APIs, Identity, Security, Cloud)
+• Technical Presentations & Product Demonstrations
+• Cross-Functional Collaboration (Sales, Product, Engineering)
+• Cloud Technologies: Oracle Cloud, AWS
+• Front-End Development: ReactJs, HTML, CSS
+• Back-End Development: Python, PL/SQL, Node.js, SQL,Java
+• DevOps Practices, Scalability & Automation
+• BI & Observability Tools: Databricks, Datadog, Grafana
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-haruo-matsunaga-oka-38b735142/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" alt="Fernando Haruo Matsunaga Oka" height="35" width="35"/></a> 
-  <a href="https://twitter.com/fe_oka1" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="fe_oka1" height="35" width="35" /></a>
   <a href="https://instagram.com/fe_oka" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1658586823instagram-logo-transparent.png" alt="fe_oka" height="35" width="35" /></a>
 </p>
 
@@ -28,8 +27,8 @@ Honored with the prestigious Motorola MBG Bravo Award in 2021 for revolutionizin
 
 <h3 align="left">Backend Development</h3>
 
-- JavaScript / NodeJS
 - Python
+- JavaScript / TypeScript / NodeJS
 - Java
 - C
 - C++
