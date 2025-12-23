@@ -5,15 +5,15 @@
 I am a Technical Lead with solid experience in SaaS environments, enterprise integrations, and cloud-based solutions. I’m adept at building strong relationships with stakeholders, combining technical expertise and business insight to deliver impactful and scalable results. I’m passionate about collaboration, design thinking, and enabling teams through technology. Fluent in Portuguese, English, and Spanish.
 
 Expertise
-• Pre-Sales & Post-Sales Solution Consulting
-• SaaS Product Integrations (APIs, Identity, Security, Cloud)
-• Technical Presentations & Product Demonstrations
-• Cross-Functional Collaboration (Sales, Product, Engineering)
-• Cloud Technologies: Oracle Cloud, AWS
-• Front-End Development: ReactJs, HTML, CSS
-• Back-End Development: Python, PL/SQL, Node.js, SQL,Java
-• DevOps Practices, Scalability & Automation
-• BI & Observability Tools: Databricks, Datadog, Grafana
+- Pre-Sales & Post-Sales Solution Consulting
+- SaaS Product Integrations (APIs, Identity, Security, Cloud)
+- Technical Presentations & Product Demonstrations
+- Cross-Functional Collaboration (Sales, Product, Engineering)
+- Cloud Technologies: Oracle Cloud, AWS
+- Front-End Development: ReactJs, HTML, CSS
+- Back-End Development: Python, PL/SQL, Node.js, SQL,Java
+- DevOps Practices, Scalability & Automation
+- BI & Observability Tools: Databricks, Datadog, Grafana
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
