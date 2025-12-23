@@ -2,8 +2,6 @@
 
 <h2 align="left">About Me</h2>
 
-🌟 Tech Lead | Passionate about Technology | Award-Winning Innovator
-
 I am a Technical Lead with solid experience in SaaS environments, enterprise integrations, and cloud-based solutions. I’m adept at building strong relationships with stakeholders, combining technical expertise and business insight to deliver impactful and scalable results. I’m passionate about collaboration, design thinking, and enabling teams through technology. Fluent in Portuguese, English, and Spanish.
 
 Expertise
