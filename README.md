@@ -17,8 +17,7 @@ Expertise
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-haruo-matsunaga-oka-38b735142/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" alt="Fernando Haruo Matsunaga Oka" height="35" width="35"/></a> 
-  <a href="https://instagram.com/fe_oka" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1658586823instagram-logo-transparent.png" alt="fe_oka" height="35" width="35" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-haruo-matsunaga-oka-38b735142/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" 
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -29,14 +28,14 @@ Expertise
 - JavaScript / TypeScript / NodeJS
 - Java
 - C
-- C++
 
 <h3 align="left">Database Tools</h3>
 
 - SQL (Oracle, MySQL, PostgreSQL)
+- PL/SQL
 - MongoDB
 - Databricks
-- Looker
+- DataStudio
 
 <h3 align="left">AI / ML</h3>
 
@@ -58,14 +57,12 @@ Expertise
 - RabbitMQ
 - Datadog
 - Grafana
-- Postman
 
 <h3 align="left">ERPs and Tools</h3>
 
 - Oracle ERP Cloud
 - Oracle Integration Cloud (OIC)
 - Oracle Cloud Infrastructure (OCI)
-- Oracle E-Business Suite (EBS)
 <!--
 **FeOka95/FeOka95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
