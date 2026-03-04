@@ -15,6 +15,11 @@ Expertise
 - DevOps Practices, Scalability & Automation
 - BI & Observability Tools: Databricks, Datadog, Grafana
 
+<h3 align="left">Let's Connect!</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-haruo-matsunaga-oka-38b735142/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" alt="Fernando Haruo Matsunaga Oka" height="35" width="35"/></a> 
+</p>
+
 <h2 align="left">Languages and Tools:</h2>
 
 <h3 align="left">Backend Development</h3>
