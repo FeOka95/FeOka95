@@ -1,79 +1,45 @@
-<h1 align="center">Hi, my name is Fernando! 👋</h1>
+<h1 align="center">Hi, I'm Fernando Oka 👋</h1>
 
-<h2 align="left">About Me</h2>
-
-I am a Technical Lead with solid experience in SaaS environments, enterprise integrations, and cloud-based solutions. I’m adept at building strong relationships with stakeholders, combining technical expertise and business insight to deliver impactful and scalable results. I’m passionate about collaboration, design thinking, and enabling teams through technology. Fluent in Portuguese, English, and Spanish.
-
-Expertise
-- Pre-Sales & Post-Sales Solution Consulting
-- SaaS Product Integrations (APIs, Identity, Security, Cloud)
-- Technical Presentations & Product Demonstrations
-- Cross-Functional Collaboration (Sales, Product, Engineering)
-- Cloud Technologies: Oracle Cloud, AWS
-- Front-End Development: ReactJs, HTML, CSS
-- Back-End Development: Python, PL/SQL, Node.js, SQL,Java
-- DevOps Practices, Scalability & Automation
-- BI & Observability Tools: Databricks, Datadog, Grafana
-
-<h3 align="left">Let's Connect!</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernando-haruo-matsunaga-oka-38b735142/" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" alt="Fernando Haruo Matsunaga Oka" height="35" width="35"/></a> 
+<p align="center">
+  Tech Lead | Backend & AI Engineering
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/feoka" target="_blank">
+    <img src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" height="30" width="30"/>
+  </a>
+</p>
 
-<h3 align="left">Backend Development</h3>
+---
 
-- Python
-- JavaScript / TypeScript / NodeJS
-- Java
-- C
+I'm a Technical Lead with experience building enterprise systems — from backend integrations and cloud infrastructure to data pipelines and, more recently, AI features. Currently architecting a RAG-based AI agent solution for an enterprise client.
 
-<h3 align="left">Database Tools</h3>
+I work best in environments where engineering decisions have direct business impact.
 
-- SQL (Oracle, MySQL, PostgreSQL)
-- PL/SQL
-- MongoDB
-- Databricks
-- DataStudio
+Fluent in Portuguese, English, and Spanish.
 
-<h3 align="left">AI / ML</h3>
+---
 
-- Scikit Learn
-- TensorFlow
-- PyTorch
-- Pandas
-- Seaborn
-- R
+## 🛠️ Stack
 
-<h3 align="left">Frontend Development</h3>
+**AI & ML**
+- RAG · LLMs · LangChain · Generative AI · Oracle AI Vector Search
 
-- HTML
-- CSS
-- ReactJS
+**Backend**
+- Python · Node.js · Java · REST APIs · SOAP
 
-<h3 align="left">Backend Development, Testing and Monitoring Tools</h3>
+**Data**
+- SQL · PL/SQL · PostgreSQL · Databricks · ETL · Datadog · Grafana
 
-- RabbitMQ
-- Datadog
-- Grafana
+**Cloud & Infrastructure**
+- Oracle Cloud (OCI) · Docker · CI/CD
 
-<h3 align="left">ERPs and Tools</h3>
+**Frontend**
+- React.js · JavaScript · HTML · CSS
 
-- Oracle ERP Cloud
-- Oracle Integration Cloud (OIC)
-- Oracle Cloud Infrastructure (OCI)
-<!--
-**FeOka95/FeOka95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚧 Current Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Support Agent API** *(in progress)*
+A RAG-based API that answers questions from technical documents using FastAPI and LangChain.
