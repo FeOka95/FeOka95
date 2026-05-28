@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fernando Oka</h1>
+<h1 align="center">Hi, I'm Fernando</h1>
 
 <p align="center">
   Tech Lead | Backend & AI Engineering | Python · RAG · LLMs
@@ -30,10 +30,3 @@ Oracle Cloud (OCI) · Docker · CI/CD
 
 **Frontend**
 React.js · JavaScript · HTML · CSS
-
----
-
-## 🚧 Current Project
-
-**Support Agent API** *(in progress)*
-A RAG-based API that answers questions from technical documents using FastAPI and LangChain.
