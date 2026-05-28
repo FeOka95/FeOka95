@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm Fernando Oka 👋</h1>
+<h1 align="center">Hi, I'm Fernando Oka</h1>
 
 <p align="center">
-  Tech Lead | Backend & AI Engineering
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/feoka" target="_blank">
-    <img src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" height="30" width="30"/>
-  </a>
+  Tech Lead | Backend & AI Engineering | Python · RAG · LLMs
 </p>
 
 ---
@@ -23,19 +17,19 @@ Fluent in Portuguese, English, and Spanish.
 ## 🛠️ Stack
 
 **AI & ML**
-- RAG · LLMs · LangChain · Generative AI · Oracle AI Vector Search
+RAG · LLMs · LangChain · Generative AI · Oracle AI Vector Search
 
 **Backend**
-- Python · Node.js · Java · REST APIs · SOAP
+Python · Node.js · Java · REST APIs · SOAP
 
 **Data**
-- SQL · PL/SQL · PostgreSQL · Databricks · ETL · Datadog · Grafana
+SQL · PL/SQL · PostgreSQL · Databricks · ETL · Datadog · Grafana
 
 **Cloud & Infrastructure**
-- Oracle Cloud (OCI) · Docker · CI/CD
+Oracle Cloud (OCI) · Docker · CI/CD
 
 **Frontend**
-- React.js · JavaScript · HTML · CSS
+React.js · JavaScript · HTML · CSS
 
 ---
 
