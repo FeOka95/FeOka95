@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Fernando</h1>
 
 <p align="center">
-  Tech Lead | Backend & AI Engineering | Python · RAG · LLMs
+  Tech Lead | Backend & AI Engineering
 </p>
 
 ---
 
-I'm a Technical Lead with experience building enterprise systems — from backend integrations and cloud infrastructure to data pipelines and, more recently, AI features. Currently architecting a RAG-based AI agent solution for an enterprise client.
+I'm a Tech Lead building enterprise AI and backend systems from backend integrations and cloud infrastructure to data pipelines and, more recently, AI features. My work has been hands-on throughout: Python, REST APIs, Oracle Cloud, Databricks, and currently a RAG-based AI agent implementation that's been one of the more interesting architecture challenges I've tackled.
 
-I work best in environments where engineering decisions have direct business impact.
+I work best in environments where engineering decisions have direct business impact and where talking to product and data people is just part of the job. That means designing backend services, tuning data pipelines, or figuring out the right architecture for an AI feature.
 
 Fluent in Portuguese, English, and Spanish.
 
